@@ -1,0 +1,2 @@
+# AndroidBug5497WorkaroundKt
+Kotlin version of AndroidBug5497Workaround
